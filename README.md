@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gunjan1909
 - 👀 I’m interested in web development and competitive coding
 - 🌱 I’m currently learning web development(javascript)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on CSE MEGA PROJECT
 - 📫 How to reach me ...
 
 <!---
