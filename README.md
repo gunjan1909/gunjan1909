@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🎯  [My Portfolio](https://gunjan1909.github.io/PORTFOLIO/)
 
-- 📫 Reach me via **bhanarkaranita@gmail.com**
+- 📫 Reach me via **bhanarkargunjan@gmail.com**
 
 
 
