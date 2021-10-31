@@ -17,14 +17,14 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Gunjan Ashok Bhanarkar</h1>
 <p> I am learning Full Stack Web Development(MERN Stack) and currently know different languages like HTML, CSS, JavaScript. Currently learning backend web development(Nodejs,Express,MongoDB and later React.js). I also know C++, C, basic Python language. </p>
 <img align="left" height="200" width="325" alt="" src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" />
-
+<div align="right">
 - 🌱 I’m currently learning **Nodejs, Express, MongoDB**
 
 - 🎯  [My Portfolio](https://gunjan1909.github.io/PORTFOLIO/)
 
 - 📫 Reach me via **bhanarkargunjan@gmail.com**
 
-
+</div>
 
  
 <h3 align="left">Connect with me:</h3>
