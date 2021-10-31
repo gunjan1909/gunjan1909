@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/gunjan-bhanarkar-313b16201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gunjan Bhanarkar" height="30" width="40" /></a>
 <a href="https://github.com/gunjan1909" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="gunjan1909" height="30" width="40" /></a>
 </p>
- 
+ <img align="right" height="200" width="325" alt="" src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" />
 
 <br /> 
 <p align="left">
