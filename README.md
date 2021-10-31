@@ -18,14 +18,14 @@ You can click the Preview link to take a look at your changes.
 <p> I am learning Full Stack Web Development(MERN Stack) and currently know different languages like HTML, CSS, JavaScript. Currently learning backend web development(Nodejs,Express,MongoDB and later React.js). I also know C++, C, basic Python language. </p>
 <img align="left" height="200" width="325" alt="" src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" />
 <div align="right">
-- 🌱 I’m currently learning **Nodejs, Express, MongoDB**
+ <ul>
+  <li>🌱 I’m currently learning **Nodejs, Express, MongoDB** </li>
 
-- 🎯  [My Portfolio](https://gunjan1909.github.io/PORTFOLIO/)
+  <li>🎯  [My Portfolio](https://gunjan1909.github.io/PORTFOLIO/) </li>
 
-- 📫 Reach me via **bhanarkargunjan@gmail.com**
-
+  <li> 📫 Reach me via **bhanarkargunjan@gmail.com** </li>
+ </ul>
 </div>
-
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
