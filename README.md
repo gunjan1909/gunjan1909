@@ -62,5 +62,8 @@ You can click the Preview link to take a look at your changes.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gunjan1909&show_icons=true&theme=algolia&repo=gunjan1909" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan1909&show_icons=true&theme=algolia&repo=gunjan1909" />
  </p>
- 
- <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif"/>
+ <h3 align="left">Click below to play:</h3><hr>
+<a target="_blank" href="https://gunjan1909.github.io/dino-game-clone/"> 
+
+ <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif"/></a>
+ ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
