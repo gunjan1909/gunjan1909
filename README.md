@@ -41,12 +41,13 @@ You can click the Preview link to take a look at your changes.
 
   
   
-![HTML5](https://img.shields.io/badge/html5-040E2C?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-040E2C?style=for-the-badge&logo=html)
 ![CSS3](https://img.shields.io/badge/css3-040E2C?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-040E2C?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-040E2C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/python-040E2C?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NPM](https://img.shields.io/badge/NPM-040E2C?style=for-the-badge&logo=npm&logoColor=white)
+![MONGODB](https://img.shields.io/badge/mongodb-040E2C?style=for-the-badge&logo=mongodb)
 ![C++](https://img.shields.io/badge/c++-040E2C?style=for-the-badge&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/react-040E2C?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CodePen](https://img.shields.io/badge/CodePen-040E2C?style=for-the-badge&logo=codepen&logoColor=black)
