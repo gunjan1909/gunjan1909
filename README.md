@@ -41,9 +41,9 @@ You can click the Preview link to take a look at your changes.
 
   
   
-![HTML5](https://img.shields.io/badge/html5-040E2C?style=for-the-badge&logo=html&logoColor=red)
-![CSS3](https://img.shields.io/badge/css3-040E2C?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/javascript-040E2C?style=for-the-badge&logo=javascript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/html5-040E2C?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-040E2C?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-040E2C?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-040E2C?style=for-the-badge&logo=bootstrap)
 ![Python](https://img.shields.io/badge/python-040E2C?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NPM](https://img.shields.io/badge/NPM-040E2C?style=for-the-badge&logo=npm&logoColor=white)
