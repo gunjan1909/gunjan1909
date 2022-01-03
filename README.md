@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <p> I am learning Full Stack Web Development(MERN Stack) and currently know different languages like HTML, CSS, JavaScript. Currently learning backend web development(Nodejs,Express,MongoDB and later React.js). I also know C++, C, basic Python language. </p>
 <img align="left" height="200" width="325" alt="" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
- 📕   I’m currently learning **Nodejs, Express, MongoDB** 
+ 📕   I’m currently learning **React** 
    <br>
 
  👨‍💻  [My Portfolio](https://gunjan1909.github.io/PORTFOLIO/) 
