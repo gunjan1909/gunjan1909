@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes.
 <h2><b>⭐Github Stats</b></h2> 
 
 <a align="center" href="https://github.com/gunjan1909/gunjan1909">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gunjan1909&show_icons=true&theme=algolia&repo=gunjan1909" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan1909&show_icons=true&theme=algolia&repo=gunjan1909" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=gunjan1909&show_icons=true&theme=algolia&repo=gunjan1909" />
+  <br>
  </p>
  <h3 align="left">Click below to play:</h3><hr>
 <a target="_blank" href="https://gunjan1909.github.io/dino-game-clone/"> 
