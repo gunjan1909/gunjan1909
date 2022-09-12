@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
  📕   I’m currently learning **React.js** 
    <br>
 
- 👨‍💻  [My Portfolio](https://gunjan1909.github.io/PORTFOLIO/) 
+ 👨‍💻  [Linktree](https://linktr.ee/gunjanab) 
   <br>
  
 <h3 align="left">Connect with me:</h3>
