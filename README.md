@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <p> I am learning Full Stack Web Development(MERN Stack). Currently learning DBMS,React.js . I also know C++, C, basic Python language. </p>
 <img align="left" height="200" width="325" alt="" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
- 📕   I’m currently learning **React.js** 
+ 📕   I’m currently learning **React.js and DSA** 
    <br>
 
  👨‍💻  [Linktree](https://linktr.ee/gunjanab) 
