@@ -58,13 +58,13 @@ You can click the Preview link to take a look at your changes.
 <br />
 <h2><b>⭐Github Stats</b></h2> 
 <a align="center" href="https://github.com/gunjan1909/gunjan1909">
-  <img  src="https://github-readme-stats.vercel.app/api?username=gunjan1909&show_icons=true&theme=algolia&repo=gunjan1909" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=gunjan1909&show_icons=true&theme=cobalt&repo=gunjan1909" />
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan1909"/>
  </p>
  <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=gunjan1909&theme=rogue&area=true&hide_border=true#gh-light-mode-only" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=gunjan1909&theme=vue&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </p>
  <br>
  
