@@ -67,9 +67,9 @@ You can click the Preview link to take a look at your changes.
  <img src="https://activity-graph.herokuapp.com/graph?username=gunjan1909&theme=rogue&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </p>
  <br>
- 
- <h3 align="left">Click below to play:</h3><hr>
-<a target="_blank" href="https://gunjan1909.github.io/dino-game-clone/"> 
+ <a target="_blank" href="https://gunjan1909.github.io/dino-game-clone/"> 
+ <h3 align="left">Click to play:</h3><hr>
+</a>
+ <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif"/>
 
- <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif"/></a>
  ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
