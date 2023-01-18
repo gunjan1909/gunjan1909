@@ -67,6 +67,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gunjan1909&theme=vue" width="100%">
 </p>
  <br>
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ffxo5difci5moszj7ntvaab7ki&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
  [Click to play](https://gunjan1909.github.io/dino-game-clone/) 
  
