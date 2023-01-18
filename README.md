@@ -56,6 +56,8 @@ You can click the Preview link to take a look at your changes.
 ![Heroku](https://img.shields.io/badge/heroku-040E2C?style=for-the-badge&logo=heroku&logoColor=white)
 </p>
 <br />
+#### Spotify
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ffxo5difci5moszj7ntvaab7ki&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/4CNox0iTFUG2p2hb6CJj1n?si=c5fdd4c559ce46ed)
 <h2><b>⭐Github Stats</b></h2> 
 <a align="center" href="https://github.com/gunjan1909/gunjan1909">
   <img  src="https://github-readme-stats.vercel.app/api?username=gunjan1909&show_icons=true&theme=cobalt&repo=gunjan1909" />
