@@ -1,4 +1,5 @@
 
+
 <!--- ### - 👋 Hi, I’m @gunjan1909
 ### - 👀 I’m interested in web development and DSA.
 ### - 🌱 I’m currently learning backend web development(nodejs, express etc.)
@@ -57,8 +58,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br />
 
-#### Spotify
+## Spotify
 
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ffxo5difci5moszj7ntvaab7ki&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/4CNox0iTFUG2p2hb6CJj1n?si=c5fdd4c559ce46ed)
 
 <h2><b>⭐Github Stats</b></h2> 
 <a align="center" href="https://github.com/gunjan1909/gunjan1909">
