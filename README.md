@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 ![CSS3](https://img.shields.io/badge/css3-040E2C?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-040E2C?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-040E2C?style=for-the-badge&logo=bootstrap)
-![Python](https://img.shields.io/badge/python-040E2C?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-040E2C?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-040E2C?style=for-the-badge&logo=npm&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/mongodb-040E2C?style=for-the-badge&logo=mongodb)
 ![C++](https://img.shields.io/badge/c++-040E2C?style=for-the-badge&logo=c&logoColor=white)
@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-040E2C?style=for-the-badge&logo=vercel&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-040E2C?style=for-the-badge&logo=prisma&logoColor=white)
-![Prisma](https://img.shields.io/badge/vite-040E2C?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-040E2C?style=for-the-badge&logo=vite&logoColor=white)
 </p>
 
 ### [Sponser me](https://github.com/sponsors/gunjan1909)
