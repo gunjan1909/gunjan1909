@@ -40,7 +40,6 @@ You can click the Preview link to take a look at your changes.
 <h2><b>🛠 Languages and Tools I use </b></h2>
 
   
-  
 ![HTML5](https://img.shields.io/badge/html5-040E2C?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-040E2C?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-040E2C?style=for-the-badge&logo=javascript)
@@ -54,7 +53,9 @@ You can click the Preview link to take a look at your changes.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-040E2C?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-040E2C?style=for-the-badge&logo=vercel&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-040E2C?style=for-the-badge&logo=prisma&logoColor=white)
+![Prisma](https://img.shields.io/badge/vite-040E2C?style=for-the-badge&logo=vite&logoColor=white)
 </p>
 
 ### [Sponser me](https://github.com/sponsors/gunjan1909)
