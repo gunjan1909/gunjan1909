@@ -7,11 +7,9 @@
 <img align="left" height="200" width="325" alt="" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
 
-<a href="https://linktr.ee/gunjanab" target="_blank" style="color: #B9E9FC"><h3>Linktree</h3></a>
+<a href="https://linktr.ee/gunjanab" target="_blank" style="color: #B9E9FC;margin-left:5px"><h3>Linktree</h3></a>
 
-<br>
-<a href="https://3d-portfolio-kappa-two.vercel.app/" target="_blank" style="color: #B9E9FC"><h3>3D-Portfolio-2023</h3></a>
-<br/>
+<a href="https://3d-portfolio-kappa-two.vercel.app/" target="_blank" style="color: #B9E9FC;margin-left:5px"><h3>3D-Portfolio 2023</h3></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
