@@ -3,46 +3,62 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Gunjan Ashok Bhanarkar</h1>
-<p> I am learning Full Stack Web Development(MERN Stack). Currently learning DBMS,React.js . I also know C++, C, basic Python language. </p>
+<h3> I am a front end focussed full stack web developer, currently trying to get a stronghold on DSA and Backend along with advanced frontend concepts. Also aiming for Devops.</h3>
 <img align="left" height="200" width="325" alt="" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br>
 
- 📕   I’m currently learning **React.js and DSA** 
-   <br>
+<a href="https://linktr.ee/gunjanab" target="_blank" style="color: #B9E9FC"><h3>Linktree</h3></a>
 
- 👨‍💻  [Linktree](https://linktr.ee/gunjanab) 
-  <br>
- 
+<br>
+<a href="https://3d-portfolio-kappa-two.vercel.app/" target="_blank" style="color: #B9E9FC"><h3>3D-Portfolio-2023</h3></a>
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/gunjan.ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gunjan.ab" height="30" width="40" /></a>
-<a href="https://wa.me/919324561979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="gunjan.ab" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gunjan-bhanarkar-313b16201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gunjan Bhanarkar" height="30" width="40" /></a>
-<a href="https://github.com/gunjan1909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gunjan1909" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gunjan.ab/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gunjan.ab" height="30" width="40" /></a>
+<a href="https://wa.me/919324561979" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="gunjan.ab" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gunjan-bhanarkar-313b16201/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gunjan Bhanarkar" height="30" width="40" /></a>
+<a href="https://github.com/gunjan1909" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gunjan1909" height="30" width="40" /></a>
 </p>
  <img align="right" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
-<br /> 
-<p align="left">
-<h2><b>🛠 Languages and Tools I use </b></h2>
+<br /> <h2><b>🛠 Languages and Tools I use </b></h2>
 
-  
+ <h3><b>Languages:</b></h3>
+
+![JavaScript](https://img.shields.io/badge/javascript-040E2C?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/html5-040E2C?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-040E2C?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/javascript-040E2C?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C/C++-040E2C?style=for-the-badge&logo=c)
+![Typescript](https://img.shields.io/badge/Typescript-040E2C?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-040E2C?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-040E2C?style=for-the-badge&logo=mysql)
+
+<h3><b>Libraries, Frameworks and Services:</b></h3>
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-040E2C?style=for-the-badge&logo=bootstrap)
-![NodeJS](https://img.shields.io/badge/node.js-040E2C?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-040E2C?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-040E2C?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/node.js-040E2C?style=for-the-badge&logo=node.js)
 ![MONGODB](https://img.shields.io/badge/mongodb-040E2C?style=for-the-badge&logo=mongodb)
-![C++](https://img.shields.io/badge/c++-040E2C?style=for-the-badge&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/react-040E2C?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CodePen](https://img.shields.io/badge/CodePen-040E2C?style=for-the-badge&logo=codepen&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-040E2C?style=for-the-badge&logo=vercel&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-040E2C?style=for-the-badge&logo=prisma&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-040E2C?style=for-the-badge&logo=vite&logoColor=white)
-</p>
+![ExpressJS](https://img.shields.io/badge/expressJS-040E2C?style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/badge/firebase-040E2C?style=for-the-badge&logo=firebase)
+![NextJS](https://img.shields.io/badge/nextJS-040E2C?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-040E2C?style=for-the-badge&logo=tailwind-css)
+![JQuery](https://img.shields.io/badge/jquery-040E2C?style=for-the-badge&logo=jquery)
+![3js](https://img.shields.io/badge/threejs-040E2C?style=for-the-badge&logo=three.js)
+![NPM](https://img.shields.io/badge/NPM-040E2C?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/yarn-040E2C?style=for-the-badge&logo=yarn)
+
+<h3><b>Tools:</b></h3>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git)
+![GitHub Pages](https://img.shields.io/badge/github%20pages-040E2C?style=for-the-badge&logo=githubpages)
+![Vercel](https://img.shields.io/badge/vercel-040E2C?style=for-the-badge&logo=vercel)
+![CodePen](https://img.shields.io/badge/CodePen-040E2C?style=for-the-badge&logo=codepen)
+![Vite](https://img.shields.io/badge/vite-040E2C?style=for-the-badge&logo=vite)
+![Prisma](https://img.shields.io/badge/prisma-040E2C?style=for-the-badge&logo=prisma)
+![Atom](https://img.shields.io/badge/Atom-040E2C?style=for-the-badge&logo=atom)
 
 ### [Sponser me](https://github.com/sponsors/gunjan1909)
 
@@ -66,6 +82,6 @@
  
  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" />
 
- ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
 Total Profile Visits ![Profile views](https://gpvc.arturio.dev/gunjan1909)
