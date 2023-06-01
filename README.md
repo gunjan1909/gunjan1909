@@ -47,7 +47,7 @@
 ![NPM](https://img.shields.io/badge/NPM-040E2C?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/yarn-040E2C?style=for-the-badge&logo=yarn)
 
-<h3><b>Tools:</b></h3>
+<h3><b>Tools and Others:</b></h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git)
@@ -57,6 +57,7 @@
 ![Vite](https://img.shields.io/badge/vite-040E2C?style=for-the-badge&logo=vite)
 ![Prisma](https://img.shields.io/badge/prisma-040E2C?style=for-the-badge&logo=prisma)
 ![Atom](https://img.shields.io/badge/Atom-040E2C?style=for-the-badge&logo=atom)
+![Docker](https://img.shields.io/badge/Docker-040E2C?style=for-the-badge&logo=docker)
 
 ### [Sponser me](https://github.com/sponsors/gunjan1909)
 
