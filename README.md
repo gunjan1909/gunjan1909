@@ -73,7 +73,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan1909&theme=vue-dark"/>
  </p>
  <p align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gunjan1909&theme=vue" width="100%">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunjan1909&bg_color=000000&color=fcfcfc&line=3de6e3&point=05ff22&area=true&hide_border=true" width="100%">
 </p>
  <br>
  
