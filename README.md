@@ -75,6 +75,7 @@
  <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunjan1909&bg_color=000000&color=fcfcfc&line=3de6e3&point=05ff22&area=true&hide_border=true" width="100%">
 </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunjan1909" alt="Gunjan Trophy Stats" /></a></p>
  <br>
  
  [Click to play](https://gunjan1909.github.io/dino-game-clone/) 
