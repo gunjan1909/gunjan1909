@@ -41,7 +41,7 @@
 ![ExpressJS](https://img.shields.io/badge/expressJS-040E2C?style=for-the-badge&logo=express)
 ![Firebase](https://img.shields.io/badge/firebase-040E2C?style=for-the-badge&logo=firebase)
 ![NextJS](https://img.shields.io/badge/nextJS-040E2C?style=for-the-badge&logo=next.js)
-![AngularJs](https://img.shields.io/badge/AngularJS-B52E31?style=for-the-badge&logo=Angular)
+![AngularJs](https://img.shields.io/badge/AngularJS-040E2C?style=for-the-badge&logo=Angular)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-040E2C?style=for-the-badge&logo=tailwind-css)
 ![JQuery](https://img.shields.io/badge/jquery-040E2C?style=for-the-badge&logo=jquery)
 ![3js](https://img.shields.io/badge/threejs-040E2C?style=for-the-badge&logo=three.js)
