@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Gunjan Ashok Bhanarkar</h1>
-<h3> I am a front end focussed full stack web developer, currently trying to get a stronghold on DSA and Backend along with advanced frontend concepts. Also aiming for Devops.</h3>
+<h3> I am a front end focussed full stack web developer(MERN & MEAN), currently trying to get a stronghold on DSA and Backend along with advanced frontend concepts. Also aiming for Devops.</h3>
 <img align="left" height="200" width="325" alt="" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
 
