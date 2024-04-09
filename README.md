@@ -84,3 +84,5 @@
  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" />
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
+
+<img src="https://leetcode-stats-six.vercel.app/?username=marvelBoy&theme=dark" />
