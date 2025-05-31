@@ -64,7 +64,7 @@
 
 ## Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ffxo5difci5moszj7ntvaab7ki&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/4CNox0iTFUG2p2hb6CJj1n?si=c5fdd4c559ce46ed)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31ffxo5difci5moszj7ntvaab7ki&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h2><b>⭐Github Stats</b></h2> 
 <a align="center" href="https://github.com/gunjan1909/gunjan1909">
@@ -84,5 +84,3 @@
  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" />
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
-
-<img src="https://leetcode-stats-six.vercel.app/?username=marvelBoy&theme=dark" />
