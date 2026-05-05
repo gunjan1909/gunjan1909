@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/gunjan.ab/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gunjan.ab" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bhanarkargunjan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gunjan.ab" height="30" width="40" /></a>
 <a href="https://wa.me/919324561979" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="gunjan.ab" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gunjan-bhanarkar-313b16201/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gunjan Bhanarkar" height="30" width="40" /></a>
 <a href="https://github.com/gunjan1909" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gunjan1909" height="30" width="40" /></a>
